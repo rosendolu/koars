@@ -1,0 +1,17 @@
+[package]
+name = "koars"
+version = "0.1.0"
+edition = "2021"
+authors = ["rosendofun <rosendofun@gmail.com>"]
+categories = ["development-tools", "web-programming::http-server"]
+keywords = ["http-server"]
+description = "Koa in rust"
+readme = 'README.md'
+license = "MIT"
+homepage = "https://github.com/rosendolu/koars"
+repository = "https://github.com/rosendolu/koars.git"
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+[dependencies]
